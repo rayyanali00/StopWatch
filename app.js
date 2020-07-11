@@ -21,7 +21,7 @@ function start(){
             secHead.innerHTML=sec;
             milisec=0;
         }
-        if(sec>=10){
+        if(sec>=60){
             minHead.classList.add("mins")
             min++;
             minHead.innerHTML=min;
