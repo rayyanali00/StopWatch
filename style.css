@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+/* .table{
+    width: 50%;
+    border: 2px double green;
+    text-align: center;
+    margin: 0px auto;
+    padding: 30px;
+} */
+h1{
+    display: inline-block;
+    padding: 20px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#milisec{
+    color: #ff7400;
+}
+.secd{
+    color: #0423ec;
+}
+.mins{
+    color: #04e296;
+}
+.container{
+    margin-top: 10%;
+    border: 3px solid #ff2477;
+    width: 50%;
+    text-align: center;
+    border-radius: 10%;
+    height: 300px;
+    padding: 50px;
+}
+.btnMode{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.btn{
+    width: 30%;
+    font-size: 20px;
+}
+h2{
+    font-size: 90px;
+    margin-top: 30px;
+}
